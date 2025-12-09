@@ -20,7 +20,7 @@ Output movies will appear in the repository root.
 
 Video of a sample simulation:  
 
-[![time-crystal simulation preview](simulations_short.mov)](simulations_short.mov)  
+[![time-crystal simulation preview](simulations_short.gif)](simulations_short.gif)  
 
 (Click to view full motion — shows the time-crystal behavior over simulated time.)  
 
