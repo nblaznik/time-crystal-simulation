@@ -1,6 +1,6 @@
 # time-crystal-simulation
 
-Simulations of time-crystal evolution. Originally written in C / MATLAB by J. Smits; here adapted and Pythonised.
+Simulations of time-crystal evolution. Originally written in C by J. Smits; here adapted and Pythonised.
 
 ## What’s inside
 
