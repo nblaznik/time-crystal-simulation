@@ -9,12 +9,6 @@ Simulations of time-crystal evolution. Originally written in C / MATLAB by J. Sm
 - Example outputs: simulation movies (`simulations.mov`, `simulations2.mov`, `simulations_short.mov`)  
 
 ## Quick start
-
-Clone the repo:
-
-    git clone https://github.com/nblaznik/time-crystal-simulation.git  
-    cd time-crystal-simulation
-
 Run the simulation:
 
 - Use the C binary or compile from `main_forlei.c`  
