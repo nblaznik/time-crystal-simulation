@@ -22,8 +22,6 @@ Video of a sample simulation:
 
 [![time-crystal simulation preview](simulations_short.gif)](simulations_short.gif)  
 
-(Click to view full motion — shows the time-crystal behavior over simulated time.)  
-
 ## Notes
 
 This repo captures a minimal simulation environment. It’s ideal for testing parameter regimes, visualizing time-crystal formation, or building on top of the existing codebase for further research.
